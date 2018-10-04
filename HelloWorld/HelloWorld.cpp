@@ -25,4 +25,3 @@ void main(){
   printCensus();  
 }
 
-//hacktober fest 2018
